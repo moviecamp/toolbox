@@ -1,7 +1,6 @@
 # 编剧故事营阅读材料之《绿皮书》电影剧本
-tags = #SCREENPLAY #GREENBOOK #STORYCAMP
 
-绿皮书
+## 绿皮书
 
 淡入字幕出：纽约市，1962。
 
